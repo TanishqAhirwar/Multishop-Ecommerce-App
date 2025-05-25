@@ -3,7 +3,6 @@ import Pagination from './pagination'
 import Breadcrumb from '../../components/breadcrumb'
 import Filters from './filters'
 import ProductCard from '../../components/productCard'
-import { TailSpin } from 'react-loader-spinner'
 
 export default function ShopPage({ ProductData }) {
 
